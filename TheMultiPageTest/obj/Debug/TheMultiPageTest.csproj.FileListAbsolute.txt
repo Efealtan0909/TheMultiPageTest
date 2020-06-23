@@ -1,0 +1,7 @@
+C:\Users\Yamac\source\repos\TheMultiPageTest\TheMultiPageTest\bin\Debug\TheMultiPageTest.exe.config
+C:\Users\Yamac\source\repos\TheMultiPageTest\TheMultiPageTest\bin\Debug\TheMultiPageTest.exe
+C:\Users\Yamac\source\repos\TheMultiPageTest\TheMultiPageTest\bin\Debug\TheMultiPageTest.pdb
+C:\Users\Yamac\source\repos\TheMultiPageTest\TheMultiPageTest\obj\Debug\TheMultiPageTest.csprojAssemblyReference.cache
+C:\Users\Yamac\source\repos\TheMultiPageTest\TheMultiPageTest\obj\Debug\TheMultiPageTest.csproj.CoreCompileInputs.cache
+C:\Users\Yamac\source\repos\TheMultiPageTest\TheMultiPageTest\obj\Debug\TheMultiPageTest.exe
+C:\Users\Yamac\source\repos\TheMultiPageTest\TheMultiPageTest\obj\Debug\TheMultiPageTest.pdb
